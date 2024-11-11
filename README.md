@@ -11,6 +11,8 @@ Counter-Strike 스타일의 멀티플레이어 FPS 게임으로, 팀 기반 전�
 **엔진**: Unreal Engine  
 **도구**: Git, C++  
 
+[Multiplayer FPS 플레이 영상](https://tv.kakao.com/v/446173331)
+
 <!-- 
 ### GitHub 링크
 [Unreal Multiplay FPS](https://github.com/SeoBYP/Unreal_Multiplay_FPS) -->
